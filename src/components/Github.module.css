@@ -1,0 +1,15 @@
+.contact_component {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.contact_component a {
+  color: #0077b5;
+  text-decoration: none;
+}
+
+.contact_component a:hover {
+  text-decoration: underline;
+}

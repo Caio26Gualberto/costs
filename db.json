@@ -2,32 +2,13 @@
   "projects": [
     {
       "name": "Caio Gualberto",
-      "budget": "1000",
+      "budget": "10000",
       "category": {
-        "id": "4",
-        "name": "Planejamento"
+        "id": "1",
+        "name": "Infra"
       },
-      "cost": 3,
-      "services": [
-        {
-          "name": "Caio Gualberto",
-          "cost": "1",
-          "description": "a",
-          "id": "69e5c40d-1422-4daf-a18c-c4423e80c860"
-        },
-        {
-          "name": "Caio Gualberto",
-          "cost": "1",
-          "description": "a",
-          "id": "37678f7d-3809-4c2b-a703-83ee70a67b01"
-        },
-        {
-          "name": "Caio Gualberto",
-          "cost": "1",
-          "description": "a",
-          "id": "37678f7d-3809-4c2b-a703-83ee70a67b01"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 1
     }
   ],
