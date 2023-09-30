@@ -1,91 +1,34 @@
 {
   "projects": [
     {
-      "budget": "232",
-      "name": "cacasdawd",
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "budget": "232",
-      "name": "cacasdawd",
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "budget": "232",
-      "name": "cacasdawd",
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "budget": "1",
-      "name": "1",
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
-      "name": "teste",
-      "budget": "40000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 5
-    },
-    {
       "name": "Caio Gualberto",
-      "budget": "100000",
+      "budget": "1000",
       "category": {
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 0,
-      "services": [],
-      "id": 6
-    },
-    {
-      "name": "Oscar Riudi",
-      "budget": "40000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 7
-    },
-    {
-      "name": "Oscar Riudi",
-      "budget": "50000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 8
-    },
-    {
-      "name": "Oscar Riudi",
-      "budget": "12231231",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 9
+      "cost": 3,
+      "services": [
+        {
+          "name": "Caio Gualberto",
+          "cost": "1",
+          "description": "a",
+          "id": "69e5c40d-1422-4daf-a18c-c4423e80c860"
+        },
+        {
+          "name": "Caio Gualberto",
+          "cost": "1",
+          "description": "a",
+          "id": "37678f7d-3809-4c2b-a703-83ee70a67b01"
+        },
+        {
+          "name": "Caio Gualberto",
+          "cost": "1",
+          "description": "a",
+          "id": "37678f7d-3809-4c2b-a703-83ee70a67b01"
+        }
+      ],
+      "id": 1
     }
   ],
   "categories": [
